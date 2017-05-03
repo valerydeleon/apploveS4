@@ -1,0 +1,63 @@
+[class*="columna-"]{
+    min-height: 7px;
+    padding: 12px;
+    float: left;
+}
+
+.columna-1{
+    width: 8.333333%;
+}
+
+.columna-2{
+    width: 16.666667%;
+}
+
+.columna-3{
+    /*(3/12)x100*/
+    width: 25%;
+}
+/*Distintos tamaño de columnas para grid*/
+.columna-4{
+    /*(4/12)x100*/
+    width: 33.333333%;
+}
+/*Distintos tamaño de columnas para grid*/
+.columna-5{
+    /*(5/12)x100*/
+    width: 41.666667%;
+}
+
+.columna-6{
+    /*(6/12)x100*/
+    width: 50%;
+}
+
+.columna-7{
+    /*(7/12)x100*/
+    width: 58.33333%;
+}
+
+.columna-8{
+    /*(8/12)x100*/
+    width: 66.6666667%;
+}
+
+.columna-9{
+    /*(9/12)x100*/
+    width: 75%;
+}
+
+.columna-10{
+    /*(10/12)x100*/
+    width: 83.3333333%;
+}
+
+.columna-11{
+    /*(11/12)x100*/
+    width: 91.6666667%;
+}
+
+.columna-12{
+    /*(12/12)x100*/
+    width: 100%;
+}
